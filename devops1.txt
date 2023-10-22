@@ -1,3 +1,6 @@
+WHen you set up SSH, you will need to generate a new private SSH key to add it to the SSH agent. 
+In addition, you must add the public SSH key to your account on GitHub before you use the key to authenticate or sign commits. 
+
 
 Using the SSH protocol may enable one to connect & authenticate to remote servers and services.
 With SSH keys, one can connect to GitHub without supplying ones username & personal access token at each visit. 
