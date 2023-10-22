@@ -1,0 +1,4 @@
+
+Using the SSH protocol may enable one to connect & authenticate to remote servers and services.
+With SSH keys, one can connect to GitHub without supplying ones username & personal access token at each visit. 
+One can also use SSH keys to sign commits.
